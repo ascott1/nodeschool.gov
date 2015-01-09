@@ -12,13 +12,13 @@ Welcome and thank you for signing up for nodeschool.gov. To make this NodeSchool
 
 NodeSchool is a collection of open-source workshops that teach web software skills. It originated as a way to get up to speed with Node.js, but has expanded to help you learn multiple topics. NodeSchool has 3 main packages that should help get you up to speed in Node. These packages are:
 
-* javascripting `$ sudo npm install -g javascripting`
+* javascripting `$npm install -g javascripting`
     * Learn the basics of JavaScript. No previous programming experience required.
-* git-it
+* git-it `npm install -g git-it`
     * Learn Git and GitHub basics.
-* learnyounode `$ sudo npm install -g learnyounode`
+* learnyounode `$npm install -g learnyounode`
     * Learn the basics of node: asynchronous i/o, http.
-* stream-adventures `$ sudo npm install -g stream-adventure`
+* stream-adventures `$npm install -g stream-adventure`
     * Learn to compose streaming interfaces with .pipe().
 
 There are also a whole bunch of electives, but if you are comfortable with the 3 main packages you should sign up to [help us mentor](https://ti.to/gov/nodeschool)! The complete list of NodeSchool packages can be found [here](http://nodeschool.io/index.html#workshopper-list).

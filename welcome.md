@@ -10,7 +10,7 @@ Welcome and thank you for signing up for nodeschool.gov. To make this NodeSchool
 
 ## What is NodeSchool?
 
-NodeSchool is a collection of open-source workshops that teach web software skills. It originated as a way to get up to speed with Node.js, but has expanded to help you learn multiple topics. NodeSchool has 3 main packages that should help get you up to speed in Node. These packages are:
+NodeSchool is a collection of open-source workshops that teach web software skills. It originated as a way to get up to speed with Node.js, but has expanded to help you learn multiple topics. NodeSchool has 4 main packages that should help get you up to speed in Node. These packages are:
 
 * javascripting `$npm install -g javascripting`
     * Learn the basics of JavaScript. No previous programming experience required.
@@ -21,7 +21,7 @@ NodeSchool is a collection of open-source workshops that teach web software skil
 * stream-adventures `$npm install -g stream-adventure`
     * Learn to compose streaming interfaces with .pipe().
 
-There are also a whole bunch of electives, but if you are comfortable with the 3 main packages you should sign up to [help us mentor](https://ti.to/gov/nodeschool)! The complete list of NodeSchool packages can be found [here](http://nodeschool.io/index.html#workshopper-list).
+There are also a whole bunch of electives, but if you are comfortable with the 4 main packages you should sign up to [help us mentor](https://ti.to/gov/nodeschool)! The complete list of NodeSchool packages can be found [here](http://nodeschool.io/index.html#workshopper-list).
 
 ## Additional info
 
@@ -33,4 +33,4 @@ NodeSchool strives to be a welcoming and safe event for all attendees. Attendees
 
 ## Thanks
 
-Special thanks to (@joshfinnie)[https://twitter.com/joshfinnie] for providing the original version of this document and to our sponsor [CHIEF](http://mybigchief.com/) for hosting the event.
+Special thanks to [@joshfinnie](https://twitter.com/joshfinnie) for providing the original version of this document and to our sponsor [CHIEF](http://mybigchief.com/) for hosting the event.
